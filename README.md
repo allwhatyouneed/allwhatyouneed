@@ -2,9 +2,9 @@
 
 
 
-I'm Abhinav Kotnala working as a Production Support Engineer in Aflac Northern Ireland.
+I'm Abhinav Kotnala working as a Senior Software Engineer in Wipro UK for CITI Bank.
 
-I have 6+ years of experience working in various roles and technology as an application engineer, product analyst and site reliability engineer.
+I have 7+ years of experience working in various roles and technology as an application engineer, product analyst and cloud data engineer.
 
-I have a firm skillset in cutting-edge technologies and programming languages such as AWS, Docker, Kubernetes, CI/CD, Python (Pandas, NumPy, PySpark), HTML, CSS, JS.
+I have a firm skillset in cutting-edge technologies and programming languages such as AWS, Docker, Kubernetes, CI/CD, Python (Pandas, NumPy, PySpark), SQL, Tableau, Power BI and Alteryx
 						
